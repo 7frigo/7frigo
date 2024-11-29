@@ -1,0 +1,3 @@
+- 👋 Hi, I’m MrTodes
+- 👀 I’m interested in coin
+- 🌱 I’m currently learning Sigma 
